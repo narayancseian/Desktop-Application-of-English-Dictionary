@@ -11,6 +11,10 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install modules
 pip install tkinter
 ```
 
+## How to use this APP
+
+ Open [this link](https://drive.google.com/drive/folders/1b8JZXROI3B4QXn9eC7KTrmRxit4lIVMt?usp=sharing) and download dist folder in your PC and then open dict.exe file..now you can use APP.
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
