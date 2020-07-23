@@ -13,7 +13,7 @@ pip install tkinter
 
 ## How to use this APP
 
- Open [this link](https://drive.google.com/drive/folders/1b8JZXROI3B4QXn9eC7KTrmRxit4lIVMt?usp=sharing) and download dist folder in your PC and then open dict.exe file..now you can use APP.
+ Open [this link](https://drive.google.com/drive/folders/1b8JZXROI3B4QXn9eC7KTrmRxit4lIVMt?usp=sharing) and download "dist" folder in your PC and then open dict.exe file; now you can use APP.
 
 ## Contributing
 
