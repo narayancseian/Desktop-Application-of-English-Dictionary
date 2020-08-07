@@ -4,6 +4,7 @@ It's an English Dictionary Application for Desktop. In this application you can 
 
 In this application, Python modules have been used like Pandas, Tkinter, difflib, JSON and PIL.
 
+![SS Demo](https://github.com/narayancseian/Desktop-Application-of-English-Dictionary/blob/master/SS%20DEMO.jpg)
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install modules.
